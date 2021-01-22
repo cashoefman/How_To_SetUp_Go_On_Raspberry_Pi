@@ -13,7 +13,7 @@ Of course Raspberry Pi's Raspbian has it's Debian package manager and you can in
 Paste that in a Raspberry Pi Terminal shell prompt. The script explains what it will do and then pauses before it does it.
 
 ## Set Path variables
-To make things work properly you will have to set a few variables in the appropriate file, here are a few examples.
+To make things work properly you will have to set a few variables in the appropriate file, here are a few examples:
 
 ### for zsh
 ```
