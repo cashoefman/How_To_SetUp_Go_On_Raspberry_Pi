@@ -2,6 +2,8 @@
 
 How to quickly install or update GoLang on a Raspberry Pi.
 
+
+
 ## Install Go now!
 
 ```
@@ -24,6 +26,8 @@ source $HOME/.profile
 
 ## Testing it!
 Now to quickly test and see if it all works type 'go version'
+
+![Terminal](images/terminal1.jpg)
 
 ### Upgrades
 
