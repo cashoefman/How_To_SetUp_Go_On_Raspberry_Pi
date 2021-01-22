@@ -1,6 +1,6 @@
 # How to Setup Go on a Raspberry Pi
 
-How to quickly install or update GoLang on a Raspberry Pi.
+Of course Raspberry Pi's Raspbian has it's Debian package manager and you can indeed use that to install GO on you Raspberry Pi. However that is an older version of Go, so here is a way to to quickly install or update GoLang on a Raspberry Pi with the latest version.
 
 ![GO Now](images/GoOnPi.jpg)
 
