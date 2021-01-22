@@ -5,8 +5,9 @@ How to quickly install or update GoLang on a Raspberry Pi.
 ## Install Go now!
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cashoefman/getgo/HEAD/getgo.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cashoefman/How_To_SetUp_Go_On_Raspberry_Pi/HEAD/getgo.sh)"
 ```
+
 Paste that in a Raspberry Pi Terminal shell prompt. The script explains what it will do and then pauses before it does it.
 
 ## Set Path variables
