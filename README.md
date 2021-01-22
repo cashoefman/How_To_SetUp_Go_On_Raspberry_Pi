@@ -2,7 +2,7 @@
 
 How to quickly install or update GoLang on a Raspberry Pi.
 
-
+![GO](images/GoOnPi.jpg)
 
 ## Install Go now!
 
@@ -15,14 +15,18 @@ Paste that in a Raspberry Pi Terminal shell prompt. The script explains what it 
 ## Set Path variables
 
 ### for zsh
+```
 echo export PATH="$PATH:/usr/local/go/bin" >> $HOME/.zshrc
 echo export GOPATH="$HOME/golang" >> $HOME/.zshrc
 source $HOME/.zshrc
+```
 
 ### for bash
+```
 echo export PATH="$PATH:/usr/local/go/bin" >> $HOME/.profile
 echo export GOPATH="$HOME/golang" >> $HOME/.profile
 source $HOME/.profile
+```
 
 ## Testing it!
 Now to quickly test and see if it all works type 'go version'
