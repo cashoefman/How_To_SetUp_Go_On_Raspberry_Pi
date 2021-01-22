@@ -2,7 +2,7 @@
 
 How to quickly install or update GoLang on a Raspberry Pi.
 
-![GO](images/GoOnPi.jpg)
+![GO Now](images/GoOnPi.jpg)
 
 ## Install Go now!
 
