@@ -22,6 +22,9 @@ echo export PATH="$PATH:/usr/local/go/bin" >> $HOME/.profile
 echo export GOPATH="$HOME/golang" >> $HOME/.profile
 source $HOME/.profile
 
+## Testing it!
+Now to quickly test and see if it all works type 'go version'
+
 ### Upgrades
 
 If you want to upgrade to a newer version of Go, remove the older installed version first with 'sudo rm -r /usr/local/go'
